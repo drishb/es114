@@ -61,71 +61,71 @@
     1. Write a program to remove duplicate elements from a list while maintaining the order of elements.
     2. Calculate the mean and median of the unique elements.
 
-13. ### String Operations
+12. ### String Operations
     1. Given a list of strings, write a Python function to:
        - Find the longest string.
        - Count how many strings start with a vowel.
        - Visualize the distribution of string lengths using a histogram.
 
-14. ### Sorting Dictionaries
+13. ### Sorting Dictionaries
     1. Write a function to sort a list of dictionaries by a key.
        - Example:
          - data = [{'name': 'Alice', 'age': 25}, {'name': 'Bob', 'age': 22}]
          - Sort by age → [{'name': 'Bob', 'age': 22}, {'name': 'Alice', 'age': 25}]
 
-15. ### Word Filtering and Sorting
+14. ### Word Filtering and Sorting
     1. Write a program to:
        - Split a string into a list of words.
        - Remove all words that are shorter than 4 characters.
        - Sort the remaining words alphabetically.
        - Visualize the word lengths using a bar chart.
 
-16. ### Anagram Finder
+15. ### Anagram Finder
     1. Write a Python function to find all anagrams of a word in a given list.
        - Input: word = "listen", words = ["enlist", "google", "inlets", "banana"]
        - Output: ["enlist", "inlets"]
 
-17. ### Set Operations
+16. ### Set Operations
     1. Given two lists, write Python code to find their intersection, union, and symmetric difference.
     2. Visualize the results using Venn diagrams.
 
-18. ### File Operations
+17. ### File Operations
     1. Write Python code to:
        - Create a text file.
        - Write a list of numbers to the file (one per line).
        - Read the file and compute their sum.
 
-19. ### Word Count and Frequency
+18. ### Word Count and Frequency
     1. Write a program to:
        - Read a file and count the number of words in it.
        - Find the most frequent word.
        - Visualize the word frequencies using a bar chart.
 
-20. ### Random Number Generation
+19. ### Random Number Generation
     1. Write a Python program to:
        - Generate 100 random integers between 1 and 50.
        - Save them in a text file, one per line.
        - Read the file and compute the mean of the numbers.
        - Visualize the distribution of the numbers using a histogram.
 
-21. ### CSV File Operations
+20. ### CSV File Operations
     1. Write Python code to read a CSV file and compute the sum of values in a specific column.
     2. Visualize the data using a line plot.
 
-22. ### Basic Statistics
+21. ### Basic Statistics
     1. Write Python code to calculate:
        - Mean, median, mode, and standard deviation of a list of numbers.
     2. Visualize the data using a box plot.
 
-23. ### Normalization
+22. ### Normalization
     1. Write a Python function to normalize a list of numbers to a range of 0 to 1.
     2. Visualize the normalized data using a line plot.
 
-24. ### Even or Odd
+23. ### Even or Odd
     1. Write a Python program that takes an integer input from the user and prints whether the number is even or odd.
 
-25. ### Grade Calculator
+24. ### Grade Calculator
     1. Write a Python program that takes a numerical grade (0-100) as input and prints the corresponding letter grade (A, B, C, D, F).
 
-26. ### Leap Year Checker
+25. ### Leap Year Checker
     1. Write a Python program that takes a year as input and checks if it is a leap year.
